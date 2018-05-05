@@ -1,4 +1,4 @@
 #include<stdio.h>
-void main()
-{ scanf("finally learnt");
-}|
+main()
+{ printf("finally learnt");
+}
