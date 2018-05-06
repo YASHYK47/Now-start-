@@ -2,7 +2,7 @@
 void main()
 {
 intn,a,b,c,d,s;
-printf("Enter your number");
+printf("Enter your number--");
 scanf("%d",&n);
   a=n%10;
   b=n/10;
@@ -10,7 +10,7 @@ scanf("%d",&n);
   d=b/10;
   s=(a*a*a)+(c*c*c)+(d*d*d);
 if(s==n)
-printf("It is an armstrong");
+printf("\nIt is an armstrong");
 else
-printf("It is not an armstrong");
+printf("\nIt is not an armstrong");
    }
