@@ -2,7 +2,7 @@
 main()
 {
 int n,a,b,c,d,s;
-printf("Enter your number");
+printf("Enter your number--");
 scanf("%d",&n);
   a=n%10;
   b=n/10;
