@@ -13,4 +13,4 @@ if(s==n)
 printf("\nIt is an armstrong");
 else
 printf("\nIt is not an armstrong");
-   }
+}
