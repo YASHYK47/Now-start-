@@ -1,7 +1,7 @@
 #include<stdio.h>  //To check entered number is armstrong or not
-void main()
+main()
 {
-intn,a,b,c,d,s;
+int n,a,b,c,d,s;
 printf("Enter your number");
 scanf("%d",&n);
   a=n%10;
